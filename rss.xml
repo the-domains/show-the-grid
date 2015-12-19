@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Show The Grid]]></title>
         <description><![CDATA[Show The Grid]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/show-the-grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Dec 2015 01:09:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 19 Dec 2015 01:09:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/show-the-grid/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Here's How to Work Out When You Can't Get to the Gym]]></title>
+            <description><![CDATA[<article><h1>Here's How to Work Out When You Can't Get to the Gym</h1><p>There's an abundance of circumstances that could arise that would prevent you from getting to the gym: you have to stay late at work, your wife goes into labor, or you're just being an all-around fat, lazy shit.</p><img src="http://a1.files.maxim.com/image/upload/c_fit,cs_srgb,dpr_1.0,h_1200,q_80,w_1200/MTM1MjI4NDUxMzc5NTE3OTE4.jpg"></article>]]></description>
+            <link>http://www.maxim.com/maxim-man/how-to-work-out-at-home-2015-12</link>
+            <guid isPermaLink="false">3af437a2-473b-4a63-9bfc-47aadeb8ab34</guid>
+            <pubDate>Sat, 19 Dec 2015 01:09:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Will Spider-Man Turn Up in Marvel's 'Doctor Strange?']]></title>
             <description><![CDATA[<article><h1>Will Spider-Man Turn Up in Marvel's 'Doctor Strange?'</h1><p>Solid superhero news isn't always easy to come by, so a new, potentially revealing tweet from Marvel Studios co-President, Louis D'Esposito, has our spidey-senses tingling. D'Esposito was apparently tweeting out a few behind-the-scenes shots from the set of Marvel's Doctor Strange on Wednesday, and one of those photos included Tom Holland, the newly cast MCU version of Spider-Man, perusing the tomb of The Ancient One.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/be9ecb60fa64d950605d7b2bcc06d1f787e8bff0.jpg"></article>]]></description>
