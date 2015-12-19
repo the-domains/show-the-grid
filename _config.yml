@@ -2,6 +2,7 @@ name: Show The Grid
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.27252
+title: Grid Fun
 cta:
   domain: null
   bucket: null
