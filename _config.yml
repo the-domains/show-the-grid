@@ -1,6 +1,6 @@
 name: Show The Grid
 favicon: null
-layout_spectrum: 0.97244
+layout_spectrum: 1
 typography_spectrum: 0.27252
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.0625
-  lightness: 0.5
-  saturation: 0.125
+  brandStrength: 0
+  lightness: 0.4375
+  saturation: 0
   rhythmicContrast: 1
 purpose: []
