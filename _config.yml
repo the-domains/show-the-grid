@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.5625
+  saturation: 0.7807646
   brandStrength: 0
-  rhythmicContrast: 0.5
+  lightness: 0.3626045
   brandColors:
     - '#A690A4'
     - '#B68F9D'
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  lightness: 0.3125
+  rhythmicContrast: 0.6194743
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Show The Grid
 favicon: null
+name: Show The Grid
 opengraph:
   image: null
   type: null
